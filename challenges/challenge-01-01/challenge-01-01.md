@@ -2,7 +2,7 @@
 
 ## Challenge
 
-There are at least six domain-specific languages used in the [little system I cobbled together](https://github.com/munificent/craftinginterpreters) to write and publish this book. What are they?
+There are at least six domain-specific languages used in the [little system that the author cobbled together](https://github.com/munificent/craftinginterpreters) to write and publish this book. What are they?
 
 ## Solution
 
