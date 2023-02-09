@@ -12,4 +12,4 @@ The book GitHub repository mentions Dart which is maybe in the grey-zone between
 
 The README in the GitHub repository mentions make so Makefile is another DSL used. The README also mentions that markdown is used for the text of the book and markup languages counts as DSL.
 
-So to summarize there are the following DSL HTML, SCSS, CSS, Makefile, and markdown. Adding up to 5 different so 1 is missing. Peaked the answer to the challenges to also find out about Jinja2.
+So to summarize there are the following DSL HTML, SCSS, CSS, Makefile, and markdown,adding up to 5 different DSL so 1 is missing. Peaked the answer to the challenges to also find out about Jinja2.
